@@ -1,0 +1,12 @@
+{
+  "equity": 10000,
+  "side": 0,
+  "entry": 0.0,
+  "R": 0.0,
+  "peak": 0.0,
+  "stop": 0.0,
+  "qty": 0.0,
+  "last_bar_ts": 1788912000000,
+  "trades": 0,
+  "wins": 0
+}
