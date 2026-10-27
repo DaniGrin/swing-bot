@@ -34,3 +34,5 @@
 [2026-10-23 00:15:22] === DIA daily swing | equity $10,000.00 | k1.5 activate2.0R risk 1% ===
 [2026-10-23 00:15:23]   2026-10-21  ENTER LONG @ 527.70  qty 12.86  stop 519.92  (R=7.78)
 [2026-10-24 00:08:51] === DIA daily swing | equity $10,000.00 | k1.5 activate2.0R risk 1% ===
+[2026-10-27 01:00:21] === DIA daily swing | equity $10,000.00 | k1.5 activate2.0R risk 1% ===
+[2026-10-27 01:00:22]   2026-10-23  EXIT @ 519.92  -1.00R  PnL -106.78  equity 9893.22  (WR 0/1)
